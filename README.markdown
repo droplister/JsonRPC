@@ -1,7 +1,7 @@
 JsonRPC PHP Client and Server
 =============================
 
-A simple Json-RPC client/server that just works.
+A simple Json-RPC client/server that just works. Forked, as fguillot/JsonRPC became read-only without details.
 
 Features
 --------
